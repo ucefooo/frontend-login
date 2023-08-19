@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<<<<<<< HEAD
 ## Getting Started
 
 First, run the development server:
@@ -32,3 +33,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+I created a simple login and sign up pages using nextjs.
+  to run the project clone the repo and run inside the directory:
+
+  ```npm install```
+
+  and run after: 
+
+  ```npm run dev```
+
+  then visit ```http://localhost:3000```
+>>>>>>> 6b995e39d18c1af7774395e1a8bc4ca5b22a1db7
